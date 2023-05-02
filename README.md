@@ -18,6 +18,8 @@ $ cd {repo name}
 $ vi README.md
 ```
 
+Noew I'm Doing
+
 ## How to start
 
 ```python
